@@ -1,0 +1,11 @@
+Date        Start       Stop        Activity        Comments
+
+02/08/2020  11:30       13:00       Reading Specs   Read specs and watched lecture on assignment 2
+02/08/2020  14:00       16:00       Coding          Implemented subset 0 passing autotests
+02/08/2020  16:40       17:40       Coding          Implemented subset 1 passing autotests
+06/08/2020  15:30       17:00       Coding          Implemented subset 2 passing autotests
+09/08/2020  14:00       15:00       Debugging       Created 2 Demo shell scripts & found and fixed bugs
+09/08/2020  15:00       15:45       Coding          Implemented expr function
+09/08/2020  15:45       16:15       Debugging       Created 3 Demo shell scripts & found and fixed bugs
+09/08/2020  16:30       17:00       Testing         Created 5 Test scripts and minor formating improvements to sheeple
+09/08/2020  17:00       17:30       Coding          Added numeric comparison handling to test function
